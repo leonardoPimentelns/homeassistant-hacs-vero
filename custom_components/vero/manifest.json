@@ -1,1 +1,20 @@
-
+{
+    "domain": "verointernet",
+    "name": "Verointernet",
+    "documentation": "https://www.example.com/docs/verointernet/",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["requests"],
+    "version": "0.1.0",
+    "issue_tracker": "https://www.example.com/issues",
+    "config_flow": false,
+    "custom_components": [
+        {
+            "name": "Verointernet",
+            "description": "Get invoice details from Verointernet API",
+            "requirements": [],
+            "documentation": "https://www.example.com/docs/verointernet/",
+            "codeowners": []
+        }
+    ]
+}
