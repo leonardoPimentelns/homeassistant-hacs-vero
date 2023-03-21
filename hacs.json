@@ -1,0 +1,22 @@
+{
+  "name": "Verointernet",
+  "description": "Custom component for retrieving invoice details from the Verointernet API",
+  "documentation": "https://www.example.com/docs/verointernet/",
+  "version": "0.1.0",
+  "domain": "verointernet",
+  "category": "integration",
+  "codeowners": [
+    "Your Name <yourname@example.com>"
+  ],
+  "repository": "https://github.com/yourusername/verointernet-hass",
+  "maintainer": [
+    {
+      "name": "Your Name",
+      "email": "yourname@example.com"
+    }
+  ],
+  "configFlow": false,
+  "first_install": [],
+  "requirements": [],
+  "dependencies": []
+}
